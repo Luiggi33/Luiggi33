@@ -1,7 +1,7 @@
 Hello there, I create something usefull sometimes.
 If you are intrested, check out some repositories
 
-![GitHub Stats](https://github-readme-stats-selfhost.vercel.app/api?username=luiggi33&count_private=true&theme=dark&show_icons=true&custom_title="My GitHub Stats")
+![GitHub Stats](https://github-readme-stats-selfhost.vercel.app/api?username=luiggi33&count_private=true&theme=dark&show_icons=true&custom_title="My\sGitHub\sStats")
 
 ![wakatime stats](https://github-readme-stats-selfhost.vercel.app/api/wakatime?username=luiggi33&theme=dark)
 
