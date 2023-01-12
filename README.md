@@ -1,4 +1,4 @@
-Hello there, I create something usefull sometimes.
+Hello there, I create something useful sometimes.
 If you are intrested, check out some repositories
 
 ![GitHub Stats](https://github-readme-stats-selfhost.vercel.app/api?username=luiggi33&count_private=true&theme=dark&show_icons=true&custom_title=My%20GitHub%20Stats)
