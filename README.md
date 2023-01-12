@@ -1,5 +1,5 @@
 Hello there, I create something useful sometimes.
-If you have intresting ideas or have improvements to my stuff, just create a issue/pr or message me on discord: Luiggi33#0338
+If you have intresting ideas or improvements to my stuff, just create a issue/pr or message me on discord: Luiggi33#0338
 
 ![GitHub Stats](https://github-readme-stats-selfhost.vercel.app/api?username=luiggi33&count_private=true&theme=dark&show_icons=true&custom_title=My%20GitHub%20Stats)
 
