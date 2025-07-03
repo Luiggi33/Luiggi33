@@ -1352,7 +1352,7 @@ In addition to that, what is the setup here? Is the user created via terraform o
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 03:47:14 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 14:42:10 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
